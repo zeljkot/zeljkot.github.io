@@ -1,1 +1,7 @@
 theme: jekyll-theme-dinky
+gems:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
